@@ -1,0 +1,19 @@
+{
+  "name": "nodejsarjsnft",
+  "version": "1.0.0",
+  "description": "arjs nft en nodejs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server",
+    "start": "node server"
+  },
+  "author": "Oscar Garcia",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
